@@ -1,0 +1,8 @@
+1. cd (It is used for changing directory) 
+2. git clone https://github.com/saurav1785/hello-git.git(url of the repository) (It is used for cloning file)
+3. git add -A(for adding file)
+4. git commit -m "msg"(you can type any message over here like 'done' or'ok')
+5. git push -u origin master
+6. git status(for checking status of your file)
+7. git config --global user.name ""(your github user name)
+8. git config --global user.email ""(your github email)
